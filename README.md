@@ -1,1 +1,1 @@
-# BCG-virtual-internship
+# BCG_virtual_internship
