@@ -1,4 +1,6 @@
-# BCG_virtual_internship
+# BCG_virtual_internship 
+![Uploading image.png…]()
+
 # Churn Prediction and Revenue Optimization Project
 
 In this project, we have undertaken a comprehensive approach to optimizing revenue and customer retention by analyzing churn probabilities and the impact of offering discounts based on these predictions. This involved several key steps:
