@@ -1,5 +1,5 @@
 # BCG_virtual_internship 
-![Uploading image.png…]()
+"C:\Users\ASUS\Desktop\BCG_X.jpg"
 
 # Churn Prediction and Revenue Optimization Project
 
