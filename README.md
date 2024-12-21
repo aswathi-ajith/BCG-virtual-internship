@@ -1,5 +1,7 @@
 # BCG_virtual_internship 
-"C:\Users\ASUS\Desktop\BCG_X.jpg"
+
+![BCG_X](https://github.com/user-attachments/assets/2e4f3176-3f95-47a7-a11a-3ae414bd958b)
+
 
 # Churn Prediction and Revenue Optimization Project
 
