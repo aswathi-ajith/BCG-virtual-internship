@@ -1,4 +1,4 @@
-# Abstract: Investigating Customer Churn at PowerCo
+# Investigating Customer Churn at PowerCo
 
 This project focuses on understanding and addressing customer churn for **PowerCo**, a leading gas and electricity utility provider for small and medium-sized enterprises (SMEs). With increasing competition and a dynamic energy market, PowerCo is experiencing significant customer attrition, driven by factors such as pricing sensitivity, alternative energy options, and other service preferences.
 
